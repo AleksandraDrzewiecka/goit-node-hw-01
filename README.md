@@ -5,7 +5,7 @@
 node index.js --action list
 ```
 
-![Screenshot of terminal with 1st task.](/screes/01.png)
+![Screenshot of terminal with 1st task.](/screens/01.png)
 
 ```shell
 # Otrzymujemy kontakt po id
